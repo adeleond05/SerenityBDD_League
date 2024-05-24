@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login in the page","Login success","SUCCESS","2024-05-21T20:06:43.962-05:00[America/Bogota]","0.0","32.26"
+"Login in the page","Login failed","SUCCESS","2024-05-21T20:07:17.895-05:00[America/Bogota]","0.0","10.2"
